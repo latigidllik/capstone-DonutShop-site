@@ -1,0 +1,15 @@
+ 
+.card img {
+    display: flex;
+    margin-top: 10px;
+}
+body {
+    background-color: rgb(247, 221, 119);
+}
+.btn {
+    background-color: rgb(244, 154, 45);
+    border-color: rgb(254, 128, 82);
+}
+.container {
+    margin-top: 10px;
+}
